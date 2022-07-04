@@ -5,6 +5,7 @@ flag=0
 pass_hash=input("Enter md5 hash: ")
 
 wordlst=input("File name")
+#comment
 
 try:
 	pass_file = open(wordlst,"r")
